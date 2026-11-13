@@ -4,7 +4,7 @@ Source: Desert Platformer Tileset by pzuh (GameArt2D)
 https://pzuh.itch.io/free-desert-platformer-tileset
 
 Licence: Creative Commons Zero (CC0 1.0) / Public Domain, under the GameArt2D
-Free Assets License (https://www.gameart2d.com/license.html).
+Free Assets Licence (https://www.gameart2d.com/licenceLicence.html).
 Credit is optional, but given in the game's credits.
 
 Changes made: the original 128 px vector-style tiles were downscaled to 16 px
