@@ -22,3 +22,10 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# All game art, audio and fonts: kept locally, not in the repo.
+# The licences (public/licences) and credits (docs) are still committed.
+public/assets/*
+
+# Keep the empty folder in the repo so a fresh clone has the right structure
+!public/assets/.gitkeep
